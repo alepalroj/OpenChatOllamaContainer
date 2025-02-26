@@ -68,3 +68,6 @@ docker run -d webgollama
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT.
+
+
+![Local](webgollama.png)
